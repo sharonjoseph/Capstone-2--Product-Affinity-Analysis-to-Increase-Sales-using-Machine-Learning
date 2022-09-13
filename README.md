@@ -16,4 +16,6 @@ TURF.htm - output file for the TURF analysis carried out to analyse the total un
 
 MLModelsOutput.htm - output file for the different models that are run for analysis KNN, Decision Tree-CHAID, DeepLearning-MultiLayerPerceptron.
 
+Sharon Stream1.str - this file is the stream created while running Apriori algorithm after splitting data to test and train (70-30 ratio).
+
 ** This project has data acquired from the company. Hence there are data privacy concerns and limitations to share further data.
